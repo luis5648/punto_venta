@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\bin\Debug\practica 3.exe.config
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\bin\Debug\practica 3.exe
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\bin\Debug\practica 3.pdb
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica 3.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica_3.MainForm.resources
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica 3.csproj.GenerateResource.Cache
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica 3.exe
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica 3.pdb
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica_3.Circulo.resources
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica_3.Rostro.resources
+C:\Users\Luis\Documents\SharpDevelop Projects\practica 3\practica 3\obj\Debug\practica_3.Precipitaciones.resources
